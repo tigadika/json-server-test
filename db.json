@@ -1,0 +1,34 @@
+{
+  "girlgroups": [
+    {
+      "id": "1",
+      "name": "ITZY",
+      "company": "JYP Entertaiment",
+      "imgUrl": "https://studio.mrngroup.co/storage/app/media/Prambors/Editorial%202/ITZY-20230207142906.webp?tr=w-300"
+    },
+    {
+      "name": "aespa edit",
+      "company": "SM Entertaiment",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQReEYLksL2ofw4vEuWe-sKo9cdSh7h0XOhHA&s",
+      "id": "2"
+    },
+    {
+      "id": "4",
+      "name": "(G)I-Dle",
+      "company": "Cube Entertaiment",
+      "imgUrl": "https://imgix.ranker.com/user_node_img/4269/85374730/original/85374730-photo-u5?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=650"
+    },
+    {
+      "name": "Blackpink",
+      "company": "YG Entertaiment",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c",
+      "id": "5"
+    },
+    {
+      "name": "IVE edit",
+      "company": "Starship Entertaiment",
+      "imgUrl": "https://cdn.antaranews.com/cache/1200x800/2022/07/26/15-1.jpg",
+      "id": "6"
+    }
+  ]
+}
